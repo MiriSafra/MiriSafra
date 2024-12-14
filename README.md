@@ -24,10 +24,8 @@ I enjoy working with cutting-edge technologies, contributing to open-source proj
 
 **Databases**:  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![H2 Database](https://img.shields.io/badge/-H2%20Database-0078D7?style=flat&logo=h2&logoColor=white)
 
 **DevOps**:  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
