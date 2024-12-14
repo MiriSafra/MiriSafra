@@ -38,4 +38,4 @@ I enjoy working with cutting-edge technologies, contributing to open-source proj
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
 ---
 #### 📬 Contact Me
-#### 📧 Email: mirisaf827@gmail.com
+📧 **Email**: mirisaf827@gmail.com
