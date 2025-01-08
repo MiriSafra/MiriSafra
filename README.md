@@ -37,3 +37,6 @@ I enjoy working with cutting-edge technologies, contributing to open-source proj
 ---
 #### 📬 Contact Me
 📧 **Email**: mirisaf827@gmail.com
+
+🌐[**LinkedIn**](https://www.linkedin.com/in/miri-safra/)
+
