@@ -33,7 +33,8 @@ I enjoy working with cutting-edge technologies, contributing to open-source proj
 ![Minikube](https://img.shields.io/badge/-Minikube-0098CE?style=flat&logo=Kubernetes&logoColor=white)  
 
 **Testing**:  
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)  
+
 ---
 #### 📬 Contact Me
 📧 **Email**: mirisaf827@gmail.com
