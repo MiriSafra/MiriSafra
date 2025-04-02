@@ -1,4 +1,4 @@
-## 👩‍💻 Miryam Safra
+## 👩‍💻 Miri Safra
 ### 🌟 About Me
 Hi there! I'm a **Full-Stack Developer** with a passion for coding and a love for algorithms.
 I enjoy working with cutting-edge technologies, contributing to open-source projects, and exploring creative solutions to challenging problems.
