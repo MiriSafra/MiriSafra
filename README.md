@@ -37,7 +37,7 @@ I enjoy working with cutting-edge technologies, contributing to open-source proj
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiriSafra&layout=compact&langs_count=8&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiriSafra&layout=compact&langs_count=5&theme=default)
 
 ---
 #### 📬 Contact Me
