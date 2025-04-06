@@ -33,7 +33,11 @@ I enjoy working with cutting-edge technologies, contributing to open-source proj
 ![Minikube](https://img.shields.io/badge/-Minikube-0098CE?style=flat&logo=Kubernetes&logoColor=white)  
 
 **Testing**:  
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white) 
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiriSafra&layout=compact&langs_count=8&theme=default)
 
 ---
 #### 📬 Contact Me
