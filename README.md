@@ -34,11 +34,6 @@ I enjoy working with cutting-edge technologies, contributing to open-source proj
 
 **Testing**:  
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white) 
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiriSafra&layout=compact&langs_count=5&theme=default)
-
 ---
 #### 📬 Contact Me
 📧 **Email**: mirisaf827@gmail.com
